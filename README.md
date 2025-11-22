@@ -1,4 +1,4 @@
-# Kazakhstani Student Benefits
+# Kazakhstan Student Benefits
 **A curated list of free tools, discounts, and perks for students in Kazakhstan.**
 
 **Who is this for?**
